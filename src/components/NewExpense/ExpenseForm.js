@@ -75,7 +75,7 @@ export default function ExpenseForm(props) {
           <input
             type="Date"
             min="2020-01-01"
-            max="2023-01-01"
+            max="2024-01-01"
             value={enteredDate}
             onChange={dateChangeHandler}
           />
