@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/measure-expenses/static/css/main.b041e105.css",
+    "main.js": "/measure-expenses/static/js/main.b0c6e52a.js",
+    "index.html": "/measure-expenses/index.html",
+    "main.b041e105.css.map": "/measure-expenses/static/css/main.b041e105.css.map",
+    "main.b0c6e52a.js.map": "/measure-expenses/static/js/main.b0c6e52a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b041e105.css",
+    "static/js/main.b0c6e52a.js"
+  ]
+}
